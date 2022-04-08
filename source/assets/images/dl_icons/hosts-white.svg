@@ -1,6 +1,1 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="2" y="34.6956" width="60" height="15.5217" rx="5" stroke="white" stroke-width="3"/>
-<ellipse cx="32.5808" cy="42.5" rx="2.56888" ry="2.5" fill="white"/>
-<line opacity="0.2" x1="18.1538" y1="23.5" x2="45.9803" y2="23.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
-<path d="M61.75 38L52.3866 16.039C51.6008 14.196 49.7907 13 47.7872 13H16.2128C14.2093 13 12.3992 14.196 11.6134 16.039L2.25 38" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="none" viewBox="0 0 64 64"><rect width="60" height="15.522" x="2" y="34.696" stroke="#fff" stroke-width="3" rx="5"/><ellipse cx="32.581" cy="42.5" fill="#fff" rx="2.569" ry="2.5"/><line x1="18.154" x2="45.98" y1="23.5" y2="23.5" stroke="#fff" stroke-linecap="round" stroke-width="3" opacity=".2"/><path stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M61.75 38L52.3866 16.039C51.6008 14.196 49.7907 13 47.7872 13H16.2128C14.2093 13 12.3992 14.196 11.6134 16.039L2.25 38"/></svg>
